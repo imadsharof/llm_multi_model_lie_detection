@@ -1,0 +1,5 @@
+Model,Size (B),In-Dist Acc,Cross-DS Acc,Best Algo,Best Layer,Best Layer %
+pythia-410m,0.41,58.4%,55.1%,DIM,4/22,N/A
+pythia-1.4b,1.4,60.0%,55.0%,LR-G,18/22,N/A
+pythia-2.8b,2.8,60.3%,55.2%,DIM,14/30,N/A
+pythia-6.9b,6.9,61.1%,54.7%,LR-G,16/30,N/A
